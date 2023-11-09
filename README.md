@@ -9,15 +9,12 @@ For some portions of the code, I had to do some research to find a solution for 
 
 
   I found the code for looping through all worksheets at https://stackoverflow.com/questions/21918166/excel-vba-for-each-worksheet-loop
-  
   I could not figure out how to get a For Each loop to work in this context so I had to get some help.
 
   I found the percentage formatting code at https://stackoverflow.com/questions/45510730/vba-how-to-convert-a-column-to-percentages
-  
   I kept trying to use the round function and I could not get it to work.
 
   I asked ChatGPT for help with the corresponding ticker line in each of the loops done after the initial loop. 
-  
   I initially had the code without this and it just kept returning the last ticker it encountered so I needed some assistance.
 
   To make everything easier to read, I used an autofit function I found here https://learn.microsoft.com/en-us/office/vba/api/excel.range.autofit
