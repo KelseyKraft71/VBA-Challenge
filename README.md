@@ -1,5 +1,4 @@
 # VBA-Challenge
-VBA Module Challenge UTA Data Analysis Class
 In this challenge, we were tasked with creating VBA code that loops through provided stock data and outputs the ticker, yearly change, percent change, and total stock volume for each unique ticker. 
   After this is done, those values gathered are looped through again to return the greatest percent increase, the greatest percent decrease, and the greatest total stock volume.
   Finally, all of the data is formatted to both look nicer/more legible. There is also conditional formatting for the yearly change and percent change columns.
