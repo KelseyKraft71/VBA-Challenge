@@ -7,7 +7,7 @@ In this challenge, we were tasked with creating VBA code that loops through prov
 I have in this repository some screenshots of my scripts results applied to the workbook provided as well as a text file containing the VBA code itself.
 
 For some portions of the code, I had to do some research to find a solution for a particular section. 
-  I found the code for looping through all worksheets at https://stackoverflow.com/questions/21918166/excel-vba-for-each-worksheet-loop 
+  I found the code for looping through all worksheets at https://stackoverflow.com/questions/21918166/excel-vba-for-each-worksheet-loop
   I could not figure out how to get a For Each loop to work in this context so I had to get some help.
 
   I found the percentage formatting code at https://stackoverflow.com/questions/45510730/vba-how-to-convert-a-column-to-percentages
